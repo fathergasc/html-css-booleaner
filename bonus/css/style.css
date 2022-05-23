@@ -1,5 +1,4 @@
 body {
-    width: 1057px;
     margin: auto;
 }
 
@@ -9,12 +8,13 @@ header {
     width: 100%;
     height: 120px;
     background-repeat: repeat;
-    background-size: 45%;
+    background-size: 22%;
 }
 
 .logo {
-    height: 20%;
-    width: 20%;
+    margin-left: 25%;
+    height: 70px;
+    width: 200px;
     padding-top: 60px;
 }
 
@@ -101,4 +101,9 @@ h3 {
     font-size: 20px;
     font-weight: bolder;
     padding: 20px;
+}
+
+main, footer {
+    width: 50%;
+    margin: auto;
 }
