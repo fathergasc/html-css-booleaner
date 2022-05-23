@@ -1,5 +1,6 @@
 body {
-    width: 1200px;
+    font-weight: 600;
+    width: 1057px;
     margin: auto;
 }
 
@@ -23,10 +24,22 @@ h1 {
 }
 
 .autore-data {
-    margin-top: -20px;
+    margin-top: -30px;
     color: gray;
 }
 
 #blue-text {
     color: #0099ff;
+}
+
+#data {
+    font-size: 12px;
+}
+
+.foto-tim {
+    margin-top: 30px;
+}
+
+.info-foto {
+    font-size: 12px;
 }
