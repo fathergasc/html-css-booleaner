@@ -76,3 +76,29 @@ th {
 .lightblue-bg {
     background-color: #86caf7;
 }
+
+h3 {
+    color: gray;
+}
+
+.foto-footer1 {
+    height: 200px;
+    width: 250px;
+    background-size: cover;
+    background-image: url(../img/monitor.jpg);
+}
+
+.foto-footer2 {
+    height: 200px;
+    width: 250px;
+    background-size: cover;
+    background-image: url(../img/graph.jpg);
+}
+
+.testo-foto-footer {
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 20px;
+}
