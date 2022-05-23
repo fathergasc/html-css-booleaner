@@ -41,7 +41,7 @@ h1 {
 }
 
 .info-foto {
-    font-weight: 600;
+
     font-size: 11px;
 }
 
@@ -51,4 +51,8 @@ h1 {
 
 p {
     font-size: 17px;
+}
+
+ul {
+    padding-left: 17px;
 }
