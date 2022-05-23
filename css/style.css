@@ -7,7 +7,7 @@ header {
     background-color: #0099ff;
     background-image: url(../img/pattern.png);
     width: 100%;
-    height: 140px;
+    height: 120px;
     background-repeat: repeat;
     background-size: 45%;
 }
@@ -15,7 +15,7 @@ header {
 .logo {
     height: 20%;
     width: 20%;
-    padding-top: 70px;
+    padding-top: 60px;
 }
 
 h1 {
@@ -55,4 +55,24 @@ p {
 
 ul {
     padding-left: 17px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #0099ff;
+    height: 30px;
+    color: white;
+}
+
+th {
+    text-align: left;
+    min-width: 200px;
+}
+
+.lightblue-bg {
+    background-color: #86caf7;
 }
