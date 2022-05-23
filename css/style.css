@@ -1,13 +1,32 @@
+body {
+    width: 1200px;
+    margin: auto;
+}
+
 header {
     background-color: #0099ff;
     background-image: url(../img/pattern.png);
     width: 100%;
-    height: 170px;
+    height: 140px;
     background-repeat: repeat;
+    background-size: 45%;
 }
 
 .logo {
-    height: 15%;
-    width: 15%;
-    padding-top: 90px;
+    height: 20%;
+    width: 20%;
+    padding-top: 70px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.autore-data {
+    margin-top: -20px;
+    color: gray;
+}
+
+#blue-text {
+    color: #0099ff;
 }
