@@ -1,5 +1,4 @@
 body {
-    font-weight: 600;
     width: 1057px;
     margin: auto;
 }
@@ -24,6 +23,7 @@ h1 {
 }
 
 .autore-data {
+    font-weight: 600;
     margin-top: -30px;
     color: gray;
 }
@@ -41,5 +41,14 @@ h1 {
 }
 
 .info-foto {
-    font-size: 12px;
+    font-weight: 600;
+    font-size: 11px;
+}
+
+.highlight {
+    background-color: #fbff00;
+}
+
+p {
+    font-size: 17px;
 }
